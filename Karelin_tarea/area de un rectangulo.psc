@@ -12,4 +12,4 @@ Proceso AreaRectangulo
 
     Escribir "El area del rectangulo es: ", area
 
-FinProcesoss
+FinProcesos
